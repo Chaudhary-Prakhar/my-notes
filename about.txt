@@ -2,3 +2,9 @@ favourite film: dangal
 
 city: bengaluru
 hometown: Muzzafar nagar
+
+city: bengaluru
+
+print()
+
+print()
